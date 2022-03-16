@@ -1,0 +1,5 @@
+name: "doom"
+description: "doom"
+url: http://rascul.github.io/doom
+permalink: pretty
+paginate: 10
